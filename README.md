@@ -10,8 +10,8 @@ Currently, two official plugins are available:
 # React Productivity Application
 This is a React application designed to help you stay organized and motivated throughout your day.
 # Features
--<b>Personalize your workspace:</b> Enter your name to personalize the app and make it feel like your own.<br>
--<b>Time tracking:</b> Keep track of the current time with a clear and easy-to-read display.<br>
--<b>Task management:</b> Create, view, and manage your tasks to stay focused and organized.<br>
--<b>Changeable background:</b> Choose from a variety of background themes to suit your mood and preferences.<br>
--<b>Quote of the day:</b> Get inspired with a new motivational quote displayed each day.<br>
+-<b>Personalize your workspace:</b> Enter your name to personalize the app and make it feel like your own.<br><br>
+-<b>Time tracking:</b> Keep track of the current time with a clear and easy-to-read display.<br><br>
+-<b>Task management:</b> Create, view, and manage your tasks to stay focused and organized.<br><br>
+-<b>Changeable background:</b> Choose from a variety of background themes to suit your mood and preferences.<br><br>
+-<b>Quote of the day:</b> Get inspired with a new motivational quote displayed each day.<br><br>
