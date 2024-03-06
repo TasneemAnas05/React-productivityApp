@@ -77,7 +77,7 @@ return (
       </div>
       <div className="quote-section">
           <Quote />
-          <p>Hi</p>
+          <p>asd</p>
       </div>
   </div>
 );
